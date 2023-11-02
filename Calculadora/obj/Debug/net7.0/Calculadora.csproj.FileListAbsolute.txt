@@ -1,0 +1,14 @@
+c:\Users\Lucas\Desktop\Projetos\ModuloTestes\Calculadora\bin\Debug\net7.0\Calculadora.exe
+c:\Users\Lucas\Desktop\Projetos\ModuloTestes\Calculadora\bin\Debug\net7.0\Calculadora.deps.json
+c:\Users\Lucas\Desktop\Projetos\ModuloTestes\Calculadora\bin\Debug\net7.0\Calculadora.runtimeconfig.json
+c:\Users\Lucas\Desktop\Projetos\ModuloTestes\Calculadora\bin\Debug\net7.0\Calculadora.dll
+c:\Users\Lucas\Desktop\Projetos\ModuloTestes\Calculadora\bin\Debug\net7.0\Calculadora.pdb
+c:\Users\Lucas\Desktop\Projetos\ModuloTestes\Calculadora\obj\Debug\net7.0\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\Lucas\Desktop\Projetos\ModuloTestes\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfoInputs.cache
+c:\Users\Lucas\Desktop\Projetos\ModuloTestes\Calculadora\obj\Debug\net7.0\Calculadora.AssemblyInfo.cs
+c:\Users\Lucas\Desktop\Projetos\ModuloTestes\Calculadora\obj\Debug\net7.0\Calculadora.csproj.CoreCompileInputs.cache
+c:\Users\Lucas\Desktop\Projetos\ModuloTestes\Calculadora\obj\Debug\net7.0\Calculadora.dll
+c:\Users\Lucas\Desktop\Projetos\ModuloTestes\Calculadora\obj\Debug\net7.0\refint\Calculadora.dll
+c:\Users\Lucas\Desktop\Projetos\ModuloTestes\Calculadora\obj\Debug\net7.0\Calculadora.pdb
+c:\Users\Lucas\Desktop\Projetos\ModuloTestes\Calculadora\obj\Debug\net7.0\Calculadora.genruntimeconfig.cache
+c:\Users\Lucas\Desktop\Projetos\ModuloTestes\Calculadora\obj\Debug\net7.0\ref\Calculadora.dll
